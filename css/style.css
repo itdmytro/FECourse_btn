@@ -126,6 +126,11 @@ body {
 
 /*Primary-button*/
 .button {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  font-size: 16px;
+  color: #333D3F;
+  line-height: 140%;
   position: relative;
   padding: 19px 38px;
   border-radius: 30px;
