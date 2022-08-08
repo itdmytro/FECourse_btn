@@ -170,3 +170,17 @@ body {
 .second-btn:hover {
   background: linear-gradient(95.6deg, #FFE7D9 12.37%, #FFEBB7 35.9%, #EDF493 65.82%, #D2FFAF 88.95%);
 }
+
+/*Typography RESPONSIVE*/
+
+@media only screen
+
+and (max-width: 799px) {
+  .main-title {
+    font-size: 36px;
+  }
+  .secondary-title {
+    font-size: 28px;
+  }
+}
+
